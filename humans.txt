@@ -1,0 +1,7 @@
+/* TEAM */
+Site: Coronado Tree Farm - Your Premier Source for Quality Trees
+
+/* SITE */
+Standards: HTML5, CSS3
+Components: Cloudflare Pages
+Software: Static HTML/CSS
