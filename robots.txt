@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://coronadotreefarm.pages.dev/sitemap.xml
+Sitemap: https://coronadotreefarm.com/sitemap.xml
